@@ -1,4 +1,4 @@
-# 🧠 Data Masters @ Sud Innovation Summit 2025
+# Data Masters @ Sud Innovation Summit 2025
 
 Repository ufficiale dei 4 workshop che **Data Masters** presenta al **[Sud Innovation Summit 2025](https://sudinnovationsummit.it/)** — l’evento che porta l’innovazione, la tecnologia e l’intelligenza artificiale nel cuore del Sud Italia.
 
