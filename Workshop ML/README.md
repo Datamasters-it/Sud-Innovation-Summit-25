@@ -1,4 +1,6 @@
-# Workshop Machine Learning - Colorazione Immagini 🎨🤖
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1h9dKb7naK8vVfGS-txSsyfPWkA2VnooM?usp=sharing)
+
+# Workshop Machine Learning - ColorIAmo Messina 🎨
 
 Questo repository contiene materiale didattico per un workshop sul Machine Learning applicato alla colorazione automatica di immagini in bianco e nero.
 
